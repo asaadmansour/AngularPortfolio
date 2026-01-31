@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
   styleUrl: './projects.css',
 })
 export class Projects {
-  forkifyUrl:string = "/forkify.png";
-  connviaUrl:string = "/connvia.jpeg";
-  basketUrl:string = "/basket.png";
-  chickenInvadersUrl:string = "/chickenInvaders.png";
+  forkifyUrl:string = "forkify.png";
+  connviaUrl:string = "connvia.jpeg";
+  basketUrl:string = "basket.png";
+  chickenInvadersUrl:string = "chickenInvaders.png";
 }

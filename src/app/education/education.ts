@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './education.css',
 })
 export class Education {
-  aastLogo:string = "/aast.png";
-  itiLogo:string = "/iti.png";
+  aastLogo:string = "aast.png";
+  itiLogo:string = "iti.png";
 }
